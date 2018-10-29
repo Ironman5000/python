@@ -9,3 +9,14 @@ else:
     for i in range(1,num+1):
         factorial=factorial*i
         print("the factorial of",num,"is",factorial)
+        enter a given number:7
+the factorial of 7 is 1
+the factorial of 7 is 2
+the factorial of 7 is 6
+the factorial of 7 is 24
+the factorial of 7 is 120
+the factorial of 7 is 720
+the factorial of 7 is 5040
+
+
+        
